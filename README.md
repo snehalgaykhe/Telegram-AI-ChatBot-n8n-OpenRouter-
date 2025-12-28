@@ -52,16 +52,6 @@ Send Message Node
 
 Sends the generated response back to Telegram
 
-📸 Screenshots
-
-Workflow and Telegram chat screenshots are included to demonstrate:
-
-n8n workflow design
-
-Telegram bot interaction
-
-AI-generated responses
-
 🔑 Prerequisites
 
 Telegram account
